@@ -1,0 +1,4 @@
+#Thu Aug 22 21:56:28 IST 2019
+base.0=/Users/mobcoder/Documents/My_Projects/PeterKakris/KidsApp/GitCode/flutter_app_demo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
